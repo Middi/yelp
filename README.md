@@ -1,5 +1,5 @@
 # Yelp-camp
 
-NodeJS CRUD app
+Node.JS CRUD app
 
-Using Express, Mongo.
+Using Express, Mongo, Passport.
